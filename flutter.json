@@ -1,29 +1,47 @@
 [
   {
     "id": 1,
-    "title": "Complete math assignment",
-    "description": "Solve all exercises from chapter 5.",
+    "title": "Grocery Shopping",
+    "description": "Buy fruits, vegetables, and dairy products.",
     "completed": false,
-    "startDate": "2025-03-25T00:00:00Z",
-    "endDate": "2025-03-27T00:00:00Z",
-    "recurrence": "Daily"
+    "startDate": "2025-04-01T00:00:00Z",
+    "endDate": "2025-04-01T00:00:00Z",
+    "recurrence": "One-time"
   },
   {
     "id": 2,
-    "title": "Prepare project report",
-    "description": "Summarize progress and key findings for submission.",
-    "completed": true,
-    "startDate": "2025-03-28T00:00:00Z",
-    "endDate": "2025-03-30T00:00:00Z",
-    "recurrence": "Weekly"
+    "title": "Read a Book",
+    "description": "Finish reading 'The Great Gatsby'.",
+    "completed": false,
+    "startDate": "2025-04-02T00:00:00Z",
+    "endDate": "2025-04-05T00:00:00Z",
+    "recurrence": "Daily"
   },
   {
     "id": 3,
-    "title": "Watch Anime",
-    "description": "Solo Leveling Season 2 Episode 12.",
+    "title": "Workout Session",
+    "description": "Attend a yoga class at the gym.",
     "completed": true,
-    "startDate": "2025-03-28T00:00:00Z",
-    "endDate": "2025-03-30T00:00:00Z",
+    "startDate": "2025-04-03T00:00:00Z",
+    "endDate": "2025-04-03T00:00:00Z",
     "recurrence": "Weekly"
-  } 
+  },
+  {
+    "id": 4,
+    "title": "Clean the House",
+    "description": "Dust and vacuum all rooms.",
+    "completed": false,
+    "startDate": "2025-04-04T00:00:00Z",
+    "endDate": "2025-04-04T00:00:00Z",
+    "recurrence": "Monthly"
+  },
+  {
+    "id": 5,
+    "title": "Plan Weekend Trip",
+    "description": "Research destinations and book accommodations.",
+    "completed": false,
+    "startDate": "2025-04-05T00:00:00Z",
+    "endDate": "2025-04-07T00:00:00Z",
+    "recurrence": "One-time"
+  }
 ]
